@@ -29,68 +29,12 @@ A LapNow is a simple mobile app that connect buyers of laptops to those that wan
 5. mongoose
 
 
-# API Endpoints
 
-# User Signup Endpoint
+#  LINKEDIN LINK
+https://www.linkedin.com/in/famakinwa-ayobami-abdulwaris-51237226b/
 
-Creates a new user account.
-
-**Endpoint:** `POST ap1/v1/user/signup`
-
-**Request Body:**
-
-```
-*# User Login Endpoint
-## Authenticate an existing user.
-
-Endpoint: `POST ap1/v1/user/login`
-
-
-# Fetch all Users Endpoint
-
-## `GET ap1/v1/user/allusers`
-
-Fetches all users.
-
-**Query Parametre**
-
-http://localhost:4532/api/v1/user/allusers
-
- 
-
-# Get User by Email Endpoint
-## `GET ap1/v1/user/:email`
-
-Fetches details of a single user by email using query parametres.
-
-#### Query Parameters
-
-- `email` (string, required) - The email address of the user to fetch details for.
-
-```json
-http://localhost:4532/api/v1/user/johndoe@examplemail.com
-```
-
-
-# Add or Update existing drink
-## Endpoint: `ap1/v1/user/createdrink` 
-
-Adds a new drink or updates an existing one.
-
-
-
-**Request**
-```json
-http://localhost:4532/api/v1/user/alldrinks
-```
-
-# POSTMAN DOCUMENTATION
-```json
-https://documenter.getpostman.com/view/25494840/2s93JzM175
-```
+#  GITHUB LINK
+https://github.com/FAMAKINWARIS/lapNow-app
 
 # DEV.TO ARTICLE
-```json
 https://dev.to/famakinwaris/major-difference-between-encryption-hashing-and-salting-4heg
-
-
